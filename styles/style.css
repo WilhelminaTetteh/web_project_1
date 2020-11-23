@@ -208,7 +208,7 @@
   font-size: 36px;
   line-height: 51px;
   font-weight: normal;
-  margin: 70px auto 0;
+  margin: 70px auto 0 auto;
 }
 
 .feynman__link {
@@ -263,7 +263,7 @@
   background-color: #1f1f1f;
   color: #fff;
   display: flex;
-  padding: 60px 0 40px;
+  padding: 60px 0 40px 0;
 }
 .footer__columns {
   width: 90%;
@@ -291,7 +291,7 @@
 
 .footer__column-heading {
   padding: 0;
-  margin:0  0 20px ;
+  margin:0 0 20px 0;
   line-height: 45px;
   font-size: 18px;
   font-weight: bold;
@@ -300,7 +300,7 @@
   padding: 0;
   list-style: none;
   text-decoration: none;
-   color: #fff;
+  color: #fff;
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
