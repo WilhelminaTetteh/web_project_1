@@ -208,7 +208,8 @@
   font-size: 36px;
   line-height: 51px;
   font-weight: normal;
-  margin: 70px auto 0 auto;
+   margin-top:70px ;
+  /* margin: 70px auto 0 auto; */
 
 }
 
@@ -292,7 +293,8 @@
 
 .footer__column-heading {
   padding: 0;
-  margin:0 0 20px 0;
+  /* margin:0 0 20px 0; */
+  margin-bottom: 20px;
   line-height: 45px;
   font-size: 18px;
   font-weight: bold;
