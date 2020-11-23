@@ -143,7 +143,7 @@
   font-weight: normal;
   width: 60%;
   text-align: center;
-  margin: 20px auto 0;
+  margin:20px auto 0 auto;
 }
 
 .table {
@@ -237,8 +237,8 @@
 }
 .table__cell_theme_dark {
   width: 200px;
-  color: white;
-  margin-top: 80px ;
+  color:#fff;
+  margin-top:80px;
   list-style: none;
 }
 .table__text_theme_dark {
@@ -291,7 +291,7 @@
 
 .footer__column-heading {
   padding: 0;
-  margin-bottom: 20px;
+  margin:0  0 20px ;
   line-height: 45px;
   font-size: 18px;
   font-weight: bold;
@@ -309,5 +309,5 @@
 .footer__social-icon {
   height: 16px;
   width: 16px;
-  margin-right: 10px;
+  margin-right:10px;
 }
