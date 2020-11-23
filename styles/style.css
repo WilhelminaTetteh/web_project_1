@@ -137,7 +137,7 @@
 }
 
 .section-subtitle {
-  padding: 0;
+
   font-size: 24px;
   line-height: 34px;
   font-weight: normal;
@@ -296,7 +296,7 @@
 }
 
 .footer__column-heading {
-  margin: 0;
+
   padding: 0;
   margin-bottom: 20px;
   line-height: 45px;
@@ -307,8 +307,7 @@
   padding: 0;
   list-style: none;
   text-decoration: none;
-  padding: 0;
-  color: #fff;
+   color: #fff;
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
