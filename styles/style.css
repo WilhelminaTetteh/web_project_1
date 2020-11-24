@@ -83,7 +83,7 @@
 .description {
   display: flex;
   justify-content: center;
-  padding: 100px 0 0;
+  padding: 100px 0px 0px 0px;
 }
 .two-columns {
   width: 80%;
@@ -288,7 +288,6 @@
 }
 
 .footer__column-heading {
-  padding: 0px;
   margin: 0px 0px 20px 0px;
   line-height: 45px;
   font-size: 18px;
