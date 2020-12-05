@@ -8,6 +8,5 @@
 @import url(./__book-pic/khan__book-pic.css);
 @import url(./__buy-link/khan__buy-link.css);
 .khan{
-  border: solid red 1px;
   padding: 105px 0px 0px 0px;
 }
