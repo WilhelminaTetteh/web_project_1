@@ -1,5 +1,7 @@
 # Learning to Learn Website
 ------
+* [Take A Look](https://wilhelminatetteh.github.io/web_project_1/index.html)
+
 ### Updates
 BEM file structure and css animations
 #### :sparkles:About
